@@ -4,6 +4,7 @@
   "pageRefs": {
     "test/fixtures/samples/no_readme/docs/getting-started.md": "Getting started"
   },
+  "sectionHierarchy": {},
   "pages": [
     {
       "title": "Getting started",

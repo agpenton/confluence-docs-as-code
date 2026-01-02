@@ -71,6 +71,9 @@
     "test/fixtures/samples/simple/docs/references/api.md": "API",
     "test/fixtures/samples/simple/docs/how-to.md": "How-To"
   },
+  "sectionHierarchy": {
+    "References": null
+  },
   "readMe": {
     "title": "Fixture Site Name",
     "meta": {
