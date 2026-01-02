@@ -14,7 +14,8 @@
         "publisher_version": "1.0.0",
         "git_ref": "branch-name",
         "git_sha": "git-hub-sha"
-      }
+      },
+      "parentPath": null
     }
   ]
 }
