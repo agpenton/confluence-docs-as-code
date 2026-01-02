@@ -9,6 +9,9 @@
     "test/fixtures/samples/simple/docs/how-to.md": "PFX: How-To",
     "test/fixtures/samples/simple/README.md": "Fixture Site Name"
   },
+  "sectionHierarchy": {
+    "References": null
+  },
   "pages": [
     {
       "title": "PFX: Getting started",
